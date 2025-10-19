@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Perú",
+        "capital": "Lima",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/pe.png"
+    },
+    {
+        "nombre": "Argentina",
+        "capital": "Buenos Aires", 
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/ar.png"
+    },
+    {
+        "nombre": "Brasil",
+        "capital": "Brasilia",
+        "idioma": "Portugués",
+        "foto": ":/banderas/banderas/br.png"
+    },
+    {
+        "nombre": "Chile",
+        "capital": "Santiago",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/cl.png"
+    },
+    {
+        "nombre": "Colombia",
+        "capital": "Bogotá",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/co.png"
+    },
+    {
+        "nombre": "México",
+        "capital": "Ciudad de México",
+        "idioma": "Español", 
+        "foto": ":/banderas/banderas/mx.png"
+    },
+    {
+        "nombre": "Estados Unidos",
+        "capital": "Washington D.C.",
+        "idioma": "Inglés",
+        "foto": ":/banderas/banderas/us.png"
+    },
+    {
+        "nombre": "España",
+        "capital": "Madrid",
+        "idioma": "Español",
+        "foto": ":/banderas/banderas/es.png"
+    },
+    {
+        "nombre": "Francia", 
+        "capital": "París",
+        "idioma": "Francés",
+        "foto": ":/banderas/banderas/fr.png"
+    },
+    {
+        "nombre": "Alemania",
+        "capital": "Berlín",
+        "idioma": "Alemán",
+        "foto": ":/banderas/banderas/de.png"
+    },
+    {
+        "nombre": "Italia",
+        "capital": "Roma",
+        "idioma": "Italiano",
+        "foto": ":/banderas/banderas/it.png"
+    },
+    {
+        "nombre": "Japón",
+        "capital": "Tokio",
+        "idioma": "Japonés",
+        "foto": ":/banderas/banderas/jp.png"
+    },
+    {
+        "nombre": "China",
+        "capital": "Pekín",
+        "idioma": "Chino",
+        "foto": ":/banderas/banderas/cn.png"
+    },
+    {
+        "nombre": "Reino Unido",
+        "capital": "Londres",
+        "idioma": "Inglés",
+        "foto": ":/banderas/banderas/gb.png"
+    },
+    {
+        "nombre": "Canadá",
+        "capital": "Ottawa", 
+        "idioma": "Inglés, Francés",
+        "foto": ":/banderas/banderas/ca.png"
+    }
+]
