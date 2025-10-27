@@ -1,0 +1,3 @@
+/home/mramirezcc/repos/LabTecnologiaDeObjetos/Lab06/01/build/CMakeFiles/main.dir
+/home/mramirezcc/repos/LabTecnologiaDeObjetos/Lab06/01/build/CMakeFiles/edit_cache.dir
+/home/mramirezcc/repos/LabTecnologiaDeObjetos/Lab06/01/build/CMakeFiles/rebuild_cache.dir
